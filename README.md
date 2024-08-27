@@ -1,12 +1,11 @@
 # Hey there! 👋
 
-I'm [Shaik Ahmed], a passionate [Software Engineer] based in [Hyderabad]. My journey in tech began when I discovered my love for [Software develpoment]. Since then, I've been diving into the world of algorithms, databases, and open-source projects.
+I'm Shaik Ahmed, a passionate Software Engineer based in Hyderabad. My journey in tech began when I discovered my love for Software develpoment. Since then, I've been diving into the world of algorithms, databases, and open-source projects.
 
 ## What I Do
 
-- 🚀 I specialize in [Software development].
+- 🚀 I specialize in Software development.
 - 💡 I enjoy solving complex problems and turning ideas into elegant code.
-- 🌐 You can find me contributing to [Your Favorite Open Source Project] or exploring new technologies.
 
 ## Connect with Me
 
