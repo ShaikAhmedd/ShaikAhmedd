@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Shaik Ahmed, a passionate Software Engineer based in Hyderabad. My journey in tech began when I discovered my love for Software develpoment. Since then, I've been diving into the world of algorithms, databases, and open-source projects.
+I'm Shaik Ahmed, a passionate IT Engineer based in Hyderabad. My journey in tech began when I discovered my love for Software develpoment. Since then, I've been diving into the world of algorithms, databases, and open-source projects.
 
 ## What I Do
 
