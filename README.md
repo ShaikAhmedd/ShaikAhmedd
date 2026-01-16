@@ -16,4 +16,4 @@ I'm Shaik Ahmed, a passionate IT Engineer based in Hyderabad. My journey in tech
 - 🎮 When I'm not coding, you'll find me battling virtual foes in video games.
 - 🎬 I'm a film enthusiast, and my watchlist spans from classic cinema to the latest blockbusters.
   ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikAhmedd)](https://github.com/anuraghazra/github-readme-stats)
+
