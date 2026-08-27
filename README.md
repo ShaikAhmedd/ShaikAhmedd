@@ -1,19 +1,21 @@
-# Hey there! 👋
+Hey there! 👋
 
-I'm Shaik Ahmed, a passionate IT Engineer based in Hyderabad. My journey in tech began when I discovered my love for Software develpoment. Since then, I've been diving into the world of algorithms, databases, and open-source projects.
+I'm Shaik Ahmed, a Cloud & DevOps enthusiast based in Hyderabad, India. My journey into tech started with a curiosity for how applications actually get built, deployed, and kept running at scale — and that curiosity pulled me straight into the world of cloud infrastructure, automation, and CI/CD pipelines.
 
-## What I Do
+What I Do
+☁️ I work with AWS (EC2, S3, IAM) to build and manage cloud infrastructure.
+🐳 I containerize applications with Docker and explore orchestration with Kubernetes.
+🔁 I set up CI/CD pipelines using Jenkins to automate builds and deployments.
+🐧 I'm comfortable working across Linux environments and scripting for automation.
+🏗️ I'm exploring Infrastructure as Code with Terraform.
 
-- 🚀 I specialize in Software development.
-- 💡 I enjoy solving complex problems and turning ideas into elegant code.
+Currently
+🌱 Learning and building hands-on projects in cloud architecture and DevOps workflows.
+🎯 Actively looking for opportunities as a Cloud/DevOps Engineer (Fresher).
 
-## Connect with Me
+Connect with Me
+📫 Reach out on LinkedIn:https://www.linkedin.com/in/shaik-ahmed-b1a352246/
 
-- 📫 Reach out on LinkedIn.https://www.linkedin.com/in/shaik-ahmed-b1a352246/
-
-## Fun Facts
-
-- 🎮 When I'm not coding, you'll find me battling virtual foes in video games.
-- 🎬 I'm a film enthusiast, and my watchlist spans from classic cinema to the latest blockbusters.
-
-
+Fun Facts
+🎮 When I'm not deploying pipelines, you'll find me battling virtual foes in video games.
+🎬 I'm a film enthusiast — my watchlist spans classic cinema to the latest blockbusters.
