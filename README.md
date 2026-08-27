@@ -1,6 +1,6 @@
 Hey there! 👋
 
-I'm Shaik Ahmed, a Cloud & DevOps enthusiast based in Hyderabad, India. My journey into tech started with a curiosity for how applications actually get built, deployed, and kept running at scale — and that curiosity pulled me straight into the world of cloud infrastructure, automation, and CI/CD pipelines.
+I'm Shaik Ahmed, a Cloud & DevOps enthusiast based in Hyderabad, India. My journey into tech started with a curiosity for how applications actually get built, deployed, and kept running at scale and that curiosity pulled me straight into the world of cloud infrastructure, automation, and CI/CD pipelines.
 _______________________________________________________________________________________________________________________________________________________________
 What I Do
 
@@ -22,4 +22,4 @@ ________________________________________________________________________________
 Fun Facts
 
 🎮 When I'm not deploying pipelines, you'll find me battling virtual foes in video games.
-🎬 I'm a film enthusiast — my watchlist spans classic cinema to the latest blockbusters.
+🎬 I'm a film enthusiast my watchlist spans classic cinema to the latest blockbusters.
